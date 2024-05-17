@@ -1,0 +1,3 @@
+SL_PORT = 443
+CA_CERT_PATH = '/etc/ssl/certs/usr/share/ca-certificates/mozilla/GlobalSign_Root_R46.crt'
+
